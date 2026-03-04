@@ -1,0 +1,8 @@
+{
+  "name": "CropGuard AI",
+  "description": "AI-powered plant disease identification and expert consultation platform for farmers.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
